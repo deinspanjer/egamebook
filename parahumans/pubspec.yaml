@@ -1,8 +1,8 @@
-name: edgehead
-version: 2.0.0
-description: A game of fractal stories.
-author: Filip Hracek <filip.hracek@gmail.com>
-homepage: https://www.egamebook.com
+name: parahumans
+version: 0.0.1
+description: An openworld interactive fiction based in the world of Worm by Wildbow.
+author: Daniel Einspanjer <deinspanjer@gmail.com>
+homepage: https://www.yipyip.com
 publish_to: none
 
 environment:
@@ -12,6 +12,8 @@ dependencies:
   built_collection: ^5.1.0
   built_value: ^8.1.1
   cli_menu: ^0.3.0-nullsafety.0
+  edgehead:
+    path: ../edgehead
   egamebook_builder:
     path: ../egamebook_builder
   logging: ^1.0.1

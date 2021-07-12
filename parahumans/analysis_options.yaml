@@ -1,0 +1,17 @@
+include: package:lint/analysis_options_package.yaml
+
+analyzer:
+  strong-mode:
+
+linter:
+  rules:
+    avoid_print: false  # Agree in theory, should get rid of those print() calls
+    avoid_escaping_inner_quotes: false
+    avoid_positional_boolean_parameters: false  # Agree in theory
+    avoid_redundant_argument_values: false  # Building body parts is nicer
+    lines_longer_than_80_chars: true
+    missing_whitespace_between_adjacent_strings: false  # Storyline has this
+    prefer_if_elements_to_conditional_expressions: false  # I like ternary more
+    prefer_final_locals: false  # Verbose
+    unnecessary_raw_strings: false  # It seem safer to raw some strings
+    use_function_type_syntax_for_parameters: false  # Agree in theory

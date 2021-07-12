@@ -169,6 +169,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.1"
+  edgehead:
+    dependency: "direct main"
+    description:
+      path: "../edgehead"
+      relative: true
+    source: path
+    version: "2.0.0"
   egamebook_builder:
     dependency: "direct main"
     description:

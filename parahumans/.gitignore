@@ -1,0 +1,11 @@
+.buildlog
+.DS_Store
+.idea
+.packages
+.pub/
+.dart_tool/
+build/
+*.scssc
+.cli_access_credentials.private
+parahumans.log
+benchmark/full.exe

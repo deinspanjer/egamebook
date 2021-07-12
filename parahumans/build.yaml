@@ -1,0 +1,10 @@
+# Read about `build.yaml` at https://pub.dartlang.org/packages/build_config
+targets:
+  $default:
+    sources:
+      - assets/**
+      - lib/**
+      - $package$
+    builders:
+      egamebook_builder|writers_builder:
+        generate_for: ['lib/writers_input.dart']
