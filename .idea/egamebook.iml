@@ -6,9 +6,6 @@
       <excludeFolder url="file://$MODULE_DIR$/edgehead/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/edgehead/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/edgehead/build" />
-      <excludeFolder url="file://$MODULE_DIR$/chronoworm/build" />
-      <excludeFolder url="file://$MODULE_DIR$/chronoworm/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/chronoworm/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/egamebook_builder/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/egamebook_builder/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/egamebook_builder/build" />

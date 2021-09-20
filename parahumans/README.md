@@ -1,23 +1,20 @@
 # Parahumans
 
-> An open world simulation of the world of Worm with Time Travel thrown in for extra fun (and stress for the developer).
+> An open world simulation of the world of Worm.
 
 This is the main sub-project of the [egamebook][] project.
 The major differences in this game from the previously published egamebook, Knights of San Francisco are:
 * Modern world setting with modern technology
 * Superpowers, superheroes, and supervillains
-* Time travel based on the rough mechanics of the strategy game Achron
 * Significantly larger location (an entire city)
 * Significantly more NPCs
 
 Major influences and references:
 * The [egamebook][] project by Filip Hracek
 * The world of [Worm][], a web published serial fiction authored by Wildbow
-* The game [Achron][], a 2011 strategy game with a novel time-travel mechanic
 
 [egamebook]: https://egamebook.com
 [Worm]: https://parahumans.wordpress.com
-[Achron]: https://www.achrongame.com
 
 ## Development
 
